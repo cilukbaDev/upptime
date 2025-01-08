@@ -6,9 +6,9 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Demo
     url: https://demo.opensourcepos.org
-  - name: Dev
+  - name: System
     url: https://dev.opensourcepos.org
-  - name: Weblate
+  - name: Translate
     url: https://translate.opensourcepos.org
  
 
@@ -19,13 +19,13 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Deployment page uptime monitor"
+  introTitle: "Mafindo System Monitor"
   introMessage: This page shows **real-time** deploy stats for our test and dev servers.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://kreasiindo.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
